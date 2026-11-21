@@ -1,0 +1,11 @@
+Instance,Init,Run,Init_Distance,Init_Vehicles,Final_Distance,Final_Vehicles,Time,Feasible
+Homberger_200_C1_2_1,Random,1,19251.47,115,3124.91,23,5.6,True
+Homberger_200_C1_2_1,Random,2,19443.48,126,3485.94,25,4.77,True
+Homberger_200_C1_2_1,Random,3,19051.5,118,3406.19,25,4.68,True
+Homberger_200_C1_2_1,Random,4,18817.01,117,3506.43,25,4.27,True
+Homberger_200_C1_2_1,Random,5,19112.88,116,3314.95,25,4.27,True
+Homberger_200_C1_2_1,Heuristic,1,3176.46,24,2940.76,22,4.61,True
+Homberger_200_C1_2_1,Heuristic,2,3176.46,24,3176.46,24,4.77,True
+Homberger_200_C1_2_1,Heuristic,3,3176.46,24,3154.27,24,4.61,True
+Homberger_200_C1_2_1,Heuristic,4,3176.46,24,3112.23,23,5.09,True
+Homberger_200_C1_2_1,Heuristic,5,3176.46,24,2983.2,22,9.57,True
